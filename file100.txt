@@ -1,0 +1,102 @@
+    1  vncserver :1
+    2  ip addr
+    3  git
+    4  pwd
+    5  mkdir mygittest
+    6  cd mygittest/
+    7  cd ~/Downloads/
+    8  java -version
+    9  rpm -qa |grep jdk
+   10  passwd 
+   11  cd mygittest/
+   12  su -
+   13  cd .jenkins/
+   14  ll
+   15  cat secret.key
+   16  ls secrets
+   17  cat initialAdminPassword
+   18  cd secrets
+   19  cat initialAdminPassword
+   20  cd ..
+   21  du -akh
+   22  ping banking
+   23  su -
+   24  cd ~/Downloads/
+   25  vi start.sh
+   26  cat start.sh 
+   27  telnet localhost 9090
+   28  telnet 192.168.0.15 9090
+   29  netstat -tap
+   30  grep websm /etc/services 
+   31  vi pass
+   32  ssh 192.168.0.97
+   33  top
+   34  ll
+   35  vncserver :1
+   36  su -
+   37  java -version
+   38  cd ~/test/HelloWorld/
+   39  ll
+   40  git init
+   41  git status
+   42  git add *
+   43  git commit -m "first commit"
+   44  git config --global krittitech@gmail.com
+   45  git config --global user.email krittitech@gmail.com
+   46  git config --global user.name "Kritti"
+   47  git config --global user.email "krittitech@gmail.com"
+   48  git commit -m "first commit"
+   49  git remote add origin https://github.com/krittibas/hello-jenkins.git
+   50  git push -u origin main
+   51  ls -la
+   52  cd .git/
+   53  ll
+   54  cd ..
+   55  git config --global 
+   56  git config --global -l
+   57  git config --global user.name "krittibas"
+   58  git config --global -l
+   59  git push -u origin main
+   60  Torsa#172
+   61  git push -u origin main
+   62  rm -rf .git/
+   63  git init
+   64  git status
+   65  git config --global user.email "krittitech@gmail.com"
+   66  git config --global user.name "krittibas"
+   67  git config --global -l
+   68  git status
+   69  git commit -m "first commit"
+   70  git push -u origin main
+   71  git remote add origin https://github.com/krittibas/hello-jenkins.git
+   72  git push -u origin main
+   73  cd ..
+   74  ll
+   75  rm -f HelloWorld/
+   76  rm -rfv HelloWorld/
+   77  cd ~
+   78  ls -ltr
+   79  cd mygittest/
+   80  git status
+   81  git add
+   82  git init
+   83  ls
+   84  touch file{001..100}.txt
+   85  ls
+   86  git commit -m "first commit"
+   87  git status
+   88  git add *
+   89  git status
+   90  git commit -m "first commit"
+   91  git branch -M main
+   92  git remote add origin https://github.com/krittibas/hello-jenkins.git
+   93  git push -u origin main
+   94  git status
+   95  git branch -M main
+   96  git commit -m "2nd commit"
+   97  git push -u origin main
+   98  git add *
+   99  git commit -m "2nd file001 commit"
+  100  git push -u origin main
+  101  ls
+  102  history >> file100.txt 
