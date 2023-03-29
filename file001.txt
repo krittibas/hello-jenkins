@@ -1,0 +1,97 @@
+    1  vncserver :1
+    2  ip addr
+    3  git
+    4  pwd
+    5  mkdir mygittest
+    6  cd mygittest/
+    7  cd ~/Downloads/
+    8  java -version
+    9  rpm -qa |grep jdk
+   10  passwd 
+   11  cd mygittest/
+   12  su -
+   13  cd .jenkins/
+   14  ll
+   15  cat secret.key
+   16  ls secrets
+   17  cat initialAdminPassword
+   18  cd secrets
+   19  cat initialAdminPassword
+   20  cd ..
+   21  du -akh
+   22  ping banking
+   23  su -
+   24  cd ~/Downloads/
+   25  vi start.sh
+   26  cat start.sh 
+   27  telnet localhost 9090
+   28  telnet 192.168.0.15 9090
+   29  netstat -tap
+   30  grep websm /etc/services 
+   31  vi pass
+   32  ssh 192.168.0.97
+   33  top
+   34  ll
+   35  vncserver :1
+   36  su -
+   37  ls -ltr
+   38  git
+   39  cd eclipse-workspace/
+   40  ls -ltr
+   41  ls -la
+   42  cd ..
+   43  rm -rf eclipse-workspace/
+   44  top
+   45  ls -ltr
+   46  rm -rf git/
+   47  rm -rf eclipse-workspace/
+   48  ls
+   49  mkdir test
+   50  mv Java-hello-world-example.zip test/
+   51  cd test/
+   52  unzip Java-hello-world-example.zip 
+   53  ll
+   54  cd ~
+   55  ll
+   56  cd test/
+   57  ll
+   58  cd HelloWorld/
+   59  ll
+   60  ps -aef
+   61  top
+   62  cd ~
+   63  ll
+   64  vi pass 
+   65  ls -la
+   66  git config -l
+   67  git config global
+   68  git config -global
+   69  git config --global
+   70  rm -rf eclipse-workspace/
+   71  cd ~
+   72  rm -rf eclipse-workspace/
+   73  ll
+   74  cd test/
+   75  ll
+   76  ls HelloWorld/
+   77  ls HelloWorld/src/
+   78  cd ..
+   79  mkdir gittest
+   80  cd gittest/
+   81  git init
+   82  history > file.txt
+   83  touch (1-10).txt
+   84  touch file-{1-10}.txt
+   85  ll
+   86  touch file-{1..10}.txt
+   87  ll
+   88  cd gittest/
+   89  ll
+   90  cd ~
+   91  ll
+   92  rm -rf gittest/
+   93  ll
+   94  ls mygittest/
+   95  cd mygittest/
+   96  cat file001.txt
+   97  history >> file001.txt
